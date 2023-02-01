@@ -1,2 +1,2 @@
-# trading-strategy-notebook
+# Trading Strategy Notebook
 Jupyter Notebook for Trading Strategy
